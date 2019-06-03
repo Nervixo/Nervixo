@@ -1,2 +1,0 @@
-# Nervixo
-Bot
