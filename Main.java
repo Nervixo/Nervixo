@@ -1,9 +1,9 @@
-package me.nervixo.BladeBot;
-
 import javax.security.auth.login.LoginException;
 
-import me.nervixo.BladeBot.Commands.Clear;
-import me.nervixo.BladeBot.Commands.Mute;
+import me.nervixo.bot.commands.Clear;
+import me.nervixo.bot.commands.JoinMessage;
+import me.nervixo.bot.commands.Mute;
+import me.nervixo.bot.commands.Tickets;
 import net.dv8tion.jda.core.AccountType;
 import net.dv8tion.jda.core.JDA;
 import net.dv8tion.jda.core.JDABuilder;
